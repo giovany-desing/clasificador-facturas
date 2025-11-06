@@ -1,0 +1,32 @@
+# Entornos virtuales
+env/
+venv/
+
+# Archivos temporales o de caché
+__pycache__/
+*.pyc
+
+# Archivos de logs
+logs/
+*.log
+
+# Archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datos grandes o sensibles
+invoices_test/
+invoices_train/
+facturas/
+train_data/
+corr/
+prev/
+modelos/
+
+# Configuración local
+.DS_Store
+.idea/
+.vscode/
+
+# Credenciales de Google/pydrive
+credentials.json
+client_secrets.json
