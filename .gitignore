@@ -30,3 +30,7 @@ modelos/
 # Credenciales de Google/pydrive
 credentials.json
 client_secrets.json
+service-account-key.json
+utils/credentials.json
+client_secrets.json
+*.json
